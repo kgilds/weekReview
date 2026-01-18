@@ -1,12 +1,12 @@
-name: timer
-title: timer
+name: weekReview
+title: weekReview
 username: tidydatabykwg57
 account: tidydatabykwg57
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 16341172
-bundleId: 11406518
-url: https://tidydatabykwg57.shinyapps.io/timer/
+appId: 16183052
+bundleId: 11302503
+url: https://tidydatabykwg57.shinyapps.io/weekReview/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE

@@ -1,12 +1,12 @@
-name: timer
-title: timer
+name: game-sim
+title: game-sim
 username: tidydatabykwg57
 account: tidydatabykwg57
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 16341172
-bundleId: 11406518
-url: https://tidydatabykwg57.shinyapps.io/timer/
+appId: 16369425
+bundleId: 11396243
+url: https://tidydatabykwg57.shinyapps.io/game-sim/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
